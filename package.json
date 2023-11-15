@@ -1,7 +1,7 @@
 {
   "name": "challengerintegrador",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto para el curso de Node JS",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "FDF 🐈",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
